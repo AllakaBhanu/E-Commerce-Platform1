@@ -115,25 +115,7 @@ Feel free to prioritize and modify this todo list based on the specific requirem
 
 We would like to acknowledge the following repositories and their contributors for their valuable contributions to the development of our e-commerce website:
 
-## Front-end Template
 
-- Repository: [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website)
-- Contributors:
-  - Sadee Samaraweera ([@codewithsadee](https://github.com/codewithsadee))
-
-We utilized the front-end template from the above repository as the foundation for the user-side of our e-commerce website. This template provided a solid starting point with its well-structured HTML, CSS, and JavaScript code, along with pre-designed components and responsive design elements.
-
-## Admin Panel Template
-
-- Repository: [Bhabishya-123/E-commerce](https://github.com/Bhabishya-123/E-commerce)
-- Contributors:
-  - Bhabishya Sharma ([@Bhabishya-123](https://github.com/Bhabishya-123))
-
-We utilized the admin panel template from the above repository to build the administrative interface of our e-commerce website. The provided template offered a user-friendly and intuitive design, along with necessary features and functionalities to manage products, orders, and customer information effectively.
-
-We express our gratitude to the contributors of these repositories for their hard work, dedication, and open-source spirit, which greatly contributed to the development of our e-commerce website.
-
-Please note that while we utilized these repositories as a starting point, we have made customizations, enhancements, and added our own code to tailor the website to our specific requirements and design.
 
 # E-commerce Website - Installation Guide
 
@@ -156,10 +138,8 @@ Follow these steps to install and run the e-commerce website:
 
    - If you have Git installed, open a terminal and run the following command:
      ```
-     git clone https://github.com/ShahandFahad/E-Commerce.git
+     git clone https://github.com/AllakaBhanu/E-Commerce.git
      ```
-   - Alternatively, you can download the repository as a ZIP file from the following URL: [https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip](https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip)
-   - Extract the contents of the ZIP file to a directory of your choice.
 
 2. Configure Database:
 
